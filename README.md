@@ -1,6 +1,6 @@
-<div align="right">
+<!---<div align="right">
   <img src="" height="150" alt="Logo" />
-</div>
+</div>--->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leandro-paiva-749776232/">
