@@ -23,7 +23,7 @@
 <ul align="left">
   <li>🚀 Estou sempre em busca de novos conhecimentos em QA e Desenvolvimento Front-End.</li>
   <li>💬 Gosto trocar ideias sobre desenvolvimento e boas práticas.</li>
-  <li>📫 Me envie um e-mail, vamos nos conectar. <a href="mailto:paivafleandro@gmail.com">paivafleandro@gmail.com</a>.</li>
+  <li>📫 Me envie um e-mail e vamos nos conectar. <a href="mailto:paivafleandro@gmail.com">paivafleandro@gmail.com</a>.</li>
   <li>🌐 Veja meus projetos em ação: <a href="https://lpaivaf.github.io/">Meu Portfólio</a>.</li>
   <li>⚡ Curiosidade: Acredito que a felicidade é ter tempo livre para aprender algo novo.</li>
 </ul>
