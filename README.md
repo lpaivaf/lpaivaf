@@ -18,7 +18,7 @@
 
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
-<p align="left">Sou QA Analytics e Desenvolvedor Front-End em formação, com habilidades em HTML, CSS, Javascript, Git e GitHub, e desenvolvendo conhecimento em Jest e Postman. Sou fascinado por aprendizado contínuo,  resolução de problemas e um eterno curiso.</p>
+<p align="left">Sou QA Analytics e Desenvolvedor Front-End em formação, com habilidades em HTML, CSS, Javascript, Git e Github, e desenvolvendo conhecimento em Jest e Postman. Sou fascinado por aprendizado contínuo,  resolução de problemas e um eterno curioso.</p>
 
 <ul align="left">
   <li>🚀 Estou sempre em busca de novos conhecimentos em QA e Desenvolvimento Front-End.</li>
