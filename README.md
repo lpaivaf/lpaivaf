@@ -1,53 +1,50 @@
 <div align="right">
-  <img height="150" src=""/>
+  <img src="" height="150" alt="Logo" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo / (https://www.linkedin.com/in/leandro-paiva-749776232/)"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/leandro-paiva-749776232/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@l.paivadev">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
+  </a>
+  <a href="mailto:paivafleandro@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
 </div>
 
-###
+<h1 align="center">Olá, eu sou o Leandro 👋</h1>
 
-<h1 align="center">Olá 👋 me chamo Leandro</h1>
+<h3 align="left">👨‍💻 Sobre Mim</h3>
 
-###
+<p align="left">Sou QA Analytics e Desenvolvedor Front-End em formação, com habilidades em HTML, CSS, JavaScript, Git e GitHub, Jest, e Postman. Sou fascinado por aprendizado contínuo,  resolução de problemas e um eterno curiso.</p>
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<ul align="left">
+  <li>🚀 Estou sempre em busca de novos conhecimentos em QA e Desenvolvimento Front-End.</li>
+  <li>💬 Gosto trocar ideias sobre desenvolvimento e boas práticas.</li>
+  <li>📫 Me envie um e-mail, vamos nos conectar. <a href="mailto:paivafleandro@gmail.com">paivafleandro@gmail.com</a>.</li>
+  <li>🌐 Veja meus projetos em ação: <a href="https://lpaivaf.github.io/">Meu Portfólio</a>.</li>
+  <li>⚡ Curiosidade: Acredito que a felicidade é ter tempo livre para aprender algo novo.</li>
+</ul>
 
-###
-
-<p align="left">QA Analytics e Desenvolvedor Front-End em formação. HTML| CSS | Javascript | Git e Github | Jest | Postman. Curiosidade e meu sobrenome.<br><br>- 📚 Aprendizado contínuo em QA Analytics e Desenvolvimento Front End. <br>- 💬 Que pergunta você faria para um desenvolvedor junior?<br>- 📫 Contato: paivafleandro@gmail.com<br>- 👨‍💻 Meus Projetos estão aqui: https://lpaivaf.github.io/<br>- ⚡ Felicidade é ter tempo livre para aprender.</p>
-
-###
-
-<h3 align="left">🛠 Novas Habilidades</h3>
-
-###
+<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
 </div>
-
-###
-
-<h3 align="left"></h3>
-
-###
 
 <!---
 lpaivaf/lpaivaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
