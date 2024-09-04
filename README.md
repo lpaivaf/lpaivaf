@@ -30,7 +30,7 @@
 
 <h3 align="left">🛠 Tecnologias e Ferramentas</h3>
 
-<div align="left">
+<div style="display: flex; align-items: flex-start;">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
     <p>HTML</p>
@@ -60,6 +60,7 @@
     <p>Postman</p>
   </div>
 </div>
+
 
 
 
