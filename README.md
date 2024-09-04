@@ -31,42 +31,36 @@
 <h3 align="left">🛠 Tecnologias e Ferramentas</h3>
 
 <div align="left">
-  <span>
+  <span style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-    <span style="display:inline-block; width:12px;"><span>HTML</span></span>
-    
+    <p>HTML</p>
   </span>
-  <span>
+  <span style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-    <span style="display:inline-block; width:12px;"></span>
-    <span>CSS</span>
+    <p>CSS</p>
   </span>
-  <span>
+  <span style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <span style="display:inline-block; width:12px;"></span>
-    <span>Javascript</span>
+    <p>Javascript</p>
   </span>
-  <span>
+  <span style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-    <span style="display:inline-block; width:12px;"></span>
-    <span>Git</span>
+    <p>Git</p>
   </span>
-  <span>
+  <span style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-    <span style="display:inline-block; width:12px;"></span>
-    <span>Github</span>
+    <p>Github</p>
   </span>
-  <span>
+  <span style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
-    <span style="display:inline-block; width:12px;"></span>
-    <span>Jest</span>
+    <p>Jest</p>
   </span>
-  <span>
+  <span style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
-    <span style="display:inline-block; width:12px;"></span>
-    <span>Postman</span>
+    <p>Postman</p>
   </span>
 </div>
+
 
 
 <!---
