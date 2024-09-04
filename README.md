@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/leandro-paiva-749776232/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@l.paivadev">
+<!--   <a href="https://www.youtube.com/@l.paivadev">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" />
-  </a>
+  </a> -->
   <a href="mailto:paivafleandro@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
