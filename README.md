@@ -33,31 +33,31 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-    <p>HTML</p>
+<!--     <p>HTML</p> -->
   </div>
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-    <p>CSS</p>
+<!--     <p>CSS</p> -->
   </div>
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <p>Javascript</p>
+<!--     <p>Javascript</p> -->
   </div>
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-    <p>Git</p>
+<!--     <p>Git</p> -->
   </div>
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-    <p>Github</p>
+<!--     <p>Github</p> -->
   </div>
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
-    <p>Jest</p>
+<!--     <p>Jest</p> -->
   </div>
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
-    <p>Postman</p>
+<!--     <p>Postman</p> -->
   </div>
 </div>
 
