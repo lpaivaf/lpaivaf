@@ -31,21 +31,43 @@
 <h3 align="left">🛠 Tecnologias e Ferramentas</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" /><p>HTML</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" /><p>CSS</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" /><p>Javascript</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" /><p>Git</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" /><p>Github</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
-  <img width="12" /><p>Jest</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
-  <p>Postman</p>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+    <span style="display:inline-block; width:12px;"></span>
+    <span>HTML</span>
+  </span>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+    <span style="display:inline-block; width:12px;"></span>
+    <span>CSS</span>
+  </span>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <span style="display:inline-block; width:12px;"></span>
+    <span>Javascript</span>
+  </span>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+    <span style="display:inline-block; width:12px;"></span>
+    <span>Git</span>
+  </span>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+    <span style="display:inline-block; width:12px;"></span>
+    <span>Github</span>
+  </span>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+    <span style="display:inline-block; width:12px;"></span>
+    <span>Jest</span>
+  </span>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+    <span style="display:inline-block; width:12px;"></span>
+    <span>Postman</span>
+  </span>
 </div>
+
 
 <!---
 lpaivaf/lpaivaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
