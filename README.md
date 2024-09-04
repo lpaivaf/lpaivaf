@@ -33,8 +33,8 @@
 <div align="left">
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-    <span style="display:inline-block; width:12px;"></span>
-    <span>HTML</span>
+    <span style="display:inline-block; width:12px;"><span>HTML</span></span>
+    
   </span>
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
