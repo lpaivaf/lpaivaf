@@ -30,7 +30,7 @@
 
 <h3 align="left">🛠 Tecnologias e Ferramentas</h3>
 
-<div align="left">
+<div align="left" style="display: inline-block;>
   <span style="display: inline-block; text-align: center; margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
     <p>HTML</p>
