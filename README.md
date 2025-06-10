@@ -18,14 +18,15 @@
 
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
-<p align="left">Sou QA Analytics e Desenvolvedor Front-End em formação. Dentre minhas novas habilidades em desenvolvimento estão: HTML, CSS, Javascript, Git, Github, Jest e Postman. Sou fascinado por aprendizado contínuo, resolução de problemas e um eterno curioso.</p>
+<p align="left">Sou um profissional em transição de carreira para a área de Quality Assurance (QA), com foco no aprendizado contínuo e na qualidade de software. Atualmente, estou desenvolvendo habilidades técnicas sólidas em HTML, CSS, JavaScript, Git, GitHub, Jest (testes unitários) e Postman (testes de API).</p>
+<p align="left">Tenho um grande interesse por tecnologia, automação de testes e usabilidade, e encaro cada novo desafio como uma oportunidade de crescimento. Sou movido pela curiosidade, pela busca por soluções inteligentes e pela troca de ideias que promovem evolução pessoal e profissional. </p>
 
 <ul align="left">
   <li>🚀 Estou em busca constante de novos conhecimentos.</li>
   <li>💬 Gosto trocar ideias sobre desenvolvimento pessoal, espiritual e profissional.</li>
   <li>📫 Me envie um e-mail e vamos nos conectar. <a href="mailto:paivafleandro@gmail.com">paivafleandro@gmail.com</a>.</li>
   <li>🌐 Veja meus projetos <a href="https://lpaivaf.github.io/">clicando aqui</a>.</li>
-  <li>⚡ Curiosidade: Acredito que a felicidade é ter tempo livre para aprender algo novo.</li>
+  <li>⚡ Curiosidade: Acredito que a felicidade é ter tempo livre para aprender algo novo a cada dia.</li>
 </ul>
 
 <h3 align="left">🛠 Tecnologias e Ferramentas</h3>
