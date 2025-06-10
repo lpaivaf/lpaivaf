@@ -18,7 +18,7 @@
 
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
-<p align="left">Sou um profissional em transição de carreira para a área de Quality Assurance (QA), com foco no aprendizado contínuo e na qualidade de software. Atualmente, estou desenvolvendo habilidades técnicas sólidas em HTML, CSS, JavaScript, Git, GitHub, Jest (testes unitários) e Postman (testes de API).</p>
+<p align="left">Sou um profissional em transição de carreira para a área de Quality Assurance (QA), com foco no aprendizado contínuo e na qualidade de software. Atualmente, estou desenvolvendo habilidades técnicas sólidas em HTML, CSS, JavaScript, Git, GitHub, SQL (banco de dados), Jest (testes unitários) e Postman (testes de API).</p>
 <p align="left">Tenho um grande interesse por tecnologia, automação de testes e usabilidade, e encaro cada novo desafio como uma oportunidade de crescimento. Sou movido pela curiosidade, pela busca por soluções inteligentes e pela troca de ideias que promovem evolução pessoal e profissional. </p>
 
 <ul align="left">
