@@ -16,7 +16,7 @@
 
 <h1 align="center">Olá, me chamo Leandro 👋</h1>
 
-<h3 align="left">👨‍💻 Sobre Mim</h3>
+<h3 align="left">Sobre</h3>
 
 <p align="left"> Sou um profissional na área de Quality Assurance, com foco em testes manuais, garantia da qualidade e validação de funcionalidades. Tenho conhecimentos práticos em testes funcionais, exploratórios, de regressão e de usabilidade, além do conhecimento das ferramentas Postman e Swagger para testes de API REST, e  Cypress para testes automatizados e de frontend. </p>
 <p align="left"> Como complemento à minha atuação em QA, está em desenvolvimento uma base sólida em HTML, CSS, Javascript, Git e GitHub juntamente com conceitos básicos de Backend. Além de conhecimentos em SQL para consultas e validação de dados em banco e conhecimentos prático em metodologias Kanban e Scrum com o uso de ferramentas como: Jira, Trello, Monday e Excel como complemento. </p>
@@ -30,7 +30,7 @@
   <li>⚡ Curiosidade: Acredito que a felicidade é ter tempo livre para aprender algo novo a cada dia.</li>
 </ul>
 
-<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
+<h3 align="left">Tecnologias e Ferramentas</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
