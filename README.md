@@ -18,7 +18,7 @@
 
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
-<p align="left"> Sou um profissional na área de Quality Assurance, com foco em testes manuais, garantia da qualidade e validação de funcionalidades. Tenho conhecimentos práticos em testes funcionais, exploratórios, de regressão e de usabilidade, além do conhecimento das ferramentas Postman e Swegger para testes de API REST, e  Cypress para testes automatizados e de frontend. </p>
+<p align="left"> Sou um profissional na área de Quality Assurance, com foco em testes manuais, garantia da qualidade e validação de funcionalidades. Tenho conhecimentos práticos em testes funcionais, exploratórios, de regressão e de usabilidade, além do conhecimento das ferramentas Postman e Swagger para testes de API REST, e  Cypress para testes automatizados e de frontend. </p>
 <p align="left"> Como complemento à minha atuação em QA, está em desenvolvimento uma base sólida em HTML, CSS, Javascript, Git e GitHub juntamente com conceitos básicos de Backend. Além de conhecimentos em SQL para consultas e validação de dados em banco e conhecimentos prático em metodologias Kanban e Scrum com o uso de ferramentas como: Jira, Trello, Monday e Excel como complemento. </p>
 <p> Tenho forte interesse no aprendizado e crescimento em ambientes colaborativos e voltados para a excelência de software. </p>
 
