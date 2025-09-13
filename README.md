@@ -3,7 +3,7 @@
 </div>--->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leandro-paiva-749776232/">
+  <a href="https://www.linkedin.com/in/paival/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
 <!--   <a href="https://www.youtube.com/@l.paivadev">
@@ -14,21 +14,14 @@
   </a>
 </div>
 
-<h1 align="center">Olá, me chamo Leandro 👋</h1>
+<h1 align="center"> Olá, me chamo Leandro 👋</h1>
 
-<h3 align="left">Sobre</h3>
+<h3 align="left"> Sobre</h3>
 
-<p align="left"> Sou um profissional na área de Quality Assurance, com foco em testes manuais, garantia da qualidade e validação de funcionalidades. Tenho conhecimentos práticos em testes funcionais, exploratórios, de regressão e de usabilidade, além do conhecimento das ferramentas Postman e Swagger para testes de API REST, e  Cypress para testes automatizados e de frontend. </p>
-<p align="left"> Como complemento à minha atuação em QA, está em desenvolvimento uma base sólida em HTML, CSS, Javascript, Git e GitHub juntamente com conceitos básicos de Backend. Além de conhecimentos em SQL para consultas e validação de dados em banco e conhecimentos prático em metodologias Kanban e Scrum com o uso de ferramentas como: Jira, Trello, Monday e Excel como complemento. </p>
-<p> Tenho forte interesse no aprendizado e crescimento em ambientes colaborativos e voltados para a excelência de software. </p>
-
-<ul align="left">
-  <li>🚀 Estou em busca constante de novos conhecimentos.</li>
-  <li>💬 Gosto trocar ideias sobre desenvolvimento pessoal, espiritual e profissional.</li>
-  <li>📫 Me envie um e-mail e vamos nos conectar. <a href="mailto:paivafleandro@gmail.com">paivafleandro@gmail.com</a>.</li>
-  <li>🌐 Veja meus projetos <a href="https://lpaivaf.github.io/">clicando aqui</a>.</li>
-  <li>⚡ Curiosidade: Acredito que a felicidade é ter tempo livre para aprender algo novo a cada dia.</li>
-</ul>
+<p align="left"> Sou Quality Assurance (QA) com experiência em testes manuais e automatizados, garantindo que os produtos sejam entregues com qualidade, segurança e foco na experiência do usuário. </p>
+<p align="left"> Trabalho com testes funcionais, regressivos e exploratórios, utilizando ferramentas como Cypress, Selenium, Postman e Swagger, além de uma base em HTML, CSS, JavaScript e SQL para colaborar de forma técnica com equipes de desenvolvimento. </p>
+<p align="left"> Sou motivado por melhorias contínua e por fortalecer a cultura de qualidade dentro dos times. </p>
+<p align="left"> 🚀 Sempre em busca de aprender, evoluir e entregar confiança através da qualidade. </p>
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
@@ -51,10 +44,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-          
-          
-  
-  
+
+  <h3 align="left">🌐 Vamos nos conectar</h3>
+  <ul align="left">
+  <li>📫 E-mail: <a href="mailto:paivafleandro@gmail.com">paivafleandro@gmail.com</a>.</li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/paival/"/in/paival/</a>.</li></li>
+  <li>💻 Portifólio <a href="https://lpaivaf.github.io/">clicando aqui</a>.</li>
+  <li>💻 Meus Projetos <a href="https://github.com/lpaivaf?tab=repositories">Repositórios GitHub</a>.</li>
+    
+</ul>   
+
+<h3 align="left">⚡ Curiosidade</h3>
+<p align="left"> Acredito que qualidade não é apenas encontrar bugs, mas entregar confiança e valor real ao usuário. </p>
+            
 </div>
 
 
