@@ -47,10 +47,10 @@
 
   <h3 align="left">🌐 Vamos nos conectar</h3>
   <ul align="left">
-  <li>📫 E-mail: <a href="mailto:paivafleandro@gmail.com">paivafleandro@gmail.com</a>.</li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/paival/"/in/paival/</a>.</li></li>
-  <li>💻 Portifólio <a href="https://lpaivaf.github.io/">clicando aqui</a>.</li>
-  <li>💻 Meus Projetos <a href="https://github.com/lpaivaf?tab=repositories">Repositórios GitHub</a>.</li>
+  <li>📫 E-mail: <a href="mailto:paivafleandro@gmail.com"> paivafleandro@gmail.com </a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/paival/"> /in/paival/ </a></li>
+  <li>💻 Portifólio <a href="https://lpaivaf.github.io/"> Aqui </a></li>
+  <li>💻 Meus Projetos <a href="https://github.com/lpaivaf?tab=repositories"> no GitHub</a></li>
     
 </ul>   
 
