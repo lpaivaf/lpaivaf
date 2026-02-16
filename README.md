@@ -14,12 +14,12 @@
   </a>
 </div>
 
-<h1 align="center"> Olá, me chamo Leandro 👋</h1>
+<h1 align="center"> Olá, me chamo Leandro</h1>
 
-<h3 align="left"> Sobre</h3>
+<h3 align="left"> Quem sou?</h3>
 
 <p align="left"> Sou Quality Assurance (QA) com experiência em testes manuais e automatizados, garantindo que os produtos sejam entregues com qualidade, segurança e foco na experiência do usuário. </p>
-<p align="left"> Trabalho com testes funcionais, regressivos e exploratórios, utilizando ferramentas como Cypress, Selenium, Postman e Swagger, além de uma base em HTML, CSS, JavaScript e SQL para colaborar de forma técnica com equipes de desenvolvimento. </p>
+<p align="left"> Trabalho com testes funcionais e não funcionais, regressivos e exploratórios, utilizando ferramentas como Cypress, Playwright, Postman e Swagger, Jmeter, Grafana além de uma base em HTML, CSS, JavaScript e SQL para colaborar de forma técnica com equipes de desenvolvimento. </p>
 <p align="left"> Sou motivado por melhorias contínua e por fortalecer a cultura de qualidade dentro dos times. </p>
 <p align="left"> 🚀 Sempre em busca de aprender, evoluir e entregar confiança através da qualidade. </p>
 
@@ -41,9 +41,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="40" alt="Cypress" />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" alt="Playwright" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="40" alt="DBeaver" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="40" alt="JMeter" />
+  <img width="12" />
+  
 
   <h3 align="left">🌐 Vamos nos conectar</h3>
   <ul align="left">
@@ -54,8 +63,8 @@
     
 </ul>   
 
-<h3 align="left">⚡ Curiosidade</h3>
-<p align="left"> Acredito que qualidade não é apenas encontrar bugs, mas entregar confiança e valor real ao usuário. </p>
+<!-- <h3 align="left"> Curiosidade</h3> -->
+<p align="left"> ⚡ Qualidade não é apenas encontrar bugs, mas entregar confiança e valor real ao usuário. </p>
             
 </div>
 
